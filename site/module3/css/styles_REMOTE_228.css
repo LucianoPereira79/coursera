@@ -1,9 +1,13 @@
+body { 
+    padding-top: 70px; 
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
 h1 {
     font-size: 2em;
     font-weight: 500;
     font-style: italic;
-    margin-left: 20px;
-    margin-right: 20px;
 }
 
 h2 {
@@ -17,6 +21,13 @@ h2 {
     background-color: #cecece;
 }
 
+/*
+#popupmenu {
+    background-color: #333;
+    color: #ffffff;
+}
+*/
+
 section {
     background-color: #7FFFD4;
     border-width: 2px;
@@ -24,9 +35,9 @@ section {
     border-color: #000;
     padding: 10px;
     margin-top: 10px;
-    margin-bottom: auto;
+    margin-bottom: 10px;
     margin-left: auto;
-    margin-right: 10px;
+    margin-right: auto;
 }
 
 #s1{
@@ -44,8 +55,4 @@ section a, section a:hover, section a:visited, section a:active {
     float: right;
     font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
     line-height: 1.42857143;
-}
-#tabela{
-    margin-left: 20px;
-    margin-right: 20px;
 }
