@@ -1,3 +1,5 @@
+    margin-left: 10px;
+    margin-right: 10px;
 h1 {
     font-size: 2em;
     font-weight: 500;
@@ -32,7 +34,6 @@ section {
     margin-bottom: 10px;
     margin-left: auto;
     margin-right: auto;
-    width: 90%;
 }
 
 #s1{
@@ -50,9 +51,4 @@ section a, section a:hover, section a:visited, section a:active {
     float: right;
     font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
     line-height: 1.42857143;
-}
-
-#anchor {
-    padding-top: 50px;
-    margin-top: 50px;
 }
