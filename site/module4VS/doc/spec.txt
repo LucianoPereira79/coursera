@@ -91,8 +91,11 @@ Find TODO: STEP 0, and follow the instructions until you are done with TODO: STE
 If you’ve watched the lectures, the code should be very familiar to you.
 
 
-Once you are done, verify that the desired functionality is working correctly. Use Browser Sync or deploy your solution to GitHub pages.
+Once you are done, verify that the desired functionality is working correctly. 
+Use Browser Sync or deploy your solution to GitHub pages.
+
 Load the home page in the browser.
+
 Click on the Specials tile. A single page category with a list of menu items for *some* category should appear.
 Click on the restaurant logo to go back to the home page.
 Click on the Specials tile again. Most likely, a different single page category page will be shown.
